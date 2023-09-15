@@ -34,7 +34,7 @@
 </p>
 
 # My networks
-<a href="https://www.instagram.com/cybeerbug" alt="Instagram" target="_blank">
+<a href="https://www.instagram.com/cy.beerbug" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram">  
 </a>
 <a href="https://www.linkedin.com/in/cybeerbug/" alt="LinkedIn"
