@@ -1,6 +1,4 @@
-# Hi, I'm Bug
-
-## Welcome to my profile
+# Hi, I'm Bug 🐛
 
 #### I'm a 2nd Period Systems Analysis and Development student and junior mobile developer, I love coffee and cats.
 
