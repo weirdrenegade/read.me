@@ -1,6 +1,6 @@
 # Hi, I'm Bug 🐛
 
-#### I'm a 2nd Period Systems Analysis and Development student and junior mobile developer, I love coffee and cats.
+#### I'm a 2nd Period Systems Analysis and Development student and junior front-end developer, I love coffee and cats, furthermore, I am a cybersecurity enthusiast and develop games in my spare time.
 
 # Technologies and tools
 <p>
