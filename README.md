@@ -13,6 +13,8 @@
 # Hardskills
 <p>
 <img src="https://www.svgrepo.com/show/452091/python.svg" width="50" height="50" align="left">
+
+  
 </p>
 
 
@@ -20,8 +22,10 @@
 # Operational Systems
 <p>
 <img src="https://www.svgrepo.com/show/331786/windows-azure.svg" width="50" height="50" align="left">
-<img src="https://e7.pngegg.com/pngimages/250/100/png-clipart-linux-linux.pngg" width="50" height="50">
+<img src="https://www.svgrepo.com/show/448236/linux.svg" width="50" height="50">
 <img src="https://www.svgrepo.com/show/475631/android-color.svg" width="50" height="50">
+
+  
 </p>
 
 
