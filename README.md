@@ -19,7 +19,7 @@
 
 # Operational Systems
 <p>
-<img src="https://c0.klipartz.com/pngpicture/988/851/sticker-png-windows-setup-installation-windows-7-laptop-computer-laptop-electronics-text-computer-logo-windows.png" width="50" height="50" align="left">
+<img src="https://www.svgrepo.com/show/331786/windows-azure.svg" width="50" height="50" align="left">
 <img src="https://w7.pngwing.com/pngs/713/641/png-transparent-android-desktop-mobile-phones-android-logo-grass-cartoon-thumbnail.png" width="50" height="50">
 <img src="https://e7.pngegg.com/pngimages/250/100/png-clipart-linux-linux.pngg" width="50" height="50">
 </p>
