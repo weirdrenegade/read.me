@@ -6,7 +6,7 @@
 <p>
 <img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" width="50" height="50" align="left"> 
 <img src="https://e7.pngegg.com/pngimages/83/555/png-clipart-computer-network-technology-customer-relationship-management-service-computer-networking-blue-computer-network.png" width="50" height="50" >
-<img src="https://banner2.cleanpng.com/20180516/rzw/kisspng-agile-software-development-scrum-computer-icons-ag-5afc42d5ddc678.9721919515264816219084.jpg" width="50" height="50" >
+<img src="![image](https://github.com/cybeerbug/Cybeerbug/assets/101839760/2db023ab-cdd6-4393-98f5-8b5d7cff0f70" width="50" height="50" >
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50">
 
 </p>
