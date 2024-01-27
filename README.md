@@ -13,6 +13,7 @@
 # Hardskills
 <p>
 <img src="https://www.svgrepo.com/show/452091/python.svg" width="50" height="50" align="left">
+<img src="https://www.svgrepo.com/show/439311/scrum.svg" width="50" height="50" align="left">
 
   
 </p>
