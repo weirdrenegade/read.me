@@ -21,8 +21,6 @@
 </p>
 
 
-<br>
-
 # Operational Systems
 
 <p>
