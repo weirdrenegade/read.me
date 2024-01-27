@@ -20,6 +20,7 @@
 
 
 <br>
+
 # Operational Systems
 <p>
 <img src="https://www.svgrepo.com/show/331786/windows-azure.svg" width="50" height="50" align="left">
