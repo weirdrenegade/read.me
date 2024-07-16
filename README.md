@@ -1,6 +1,6 @@
 # Hi, I'm Bug 🐛
 
-#### I'm a 3nd Period Systems Analysis and Development student and junior Cybersecurity Specialist Analyst I love coffee and cats.
+#### I'm a 4nd Period Systems Analysis and Development student and junior Front-end Developer, I love coffee and cats.
 
 # Technologies and tools
 <p>
