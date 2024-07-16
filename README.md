@@ -4,7 +4,7 @@
 
 # Technologies and tools
 <p>
-<img src="https://www.svgrepo.com/show/503269/cybersecurity.svg" width="50" height="50" >
+<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="50" height="50" >
 <img src="https://www.svgrepo.com/show/295323/cloud.svg" width="50" height="50" >
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50">
 
