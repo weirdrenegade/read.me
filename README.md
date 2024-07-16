@@ -5,15 +5,16 @@
 # Technologies and tools
 <p>
 <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="50" height="50" >
-<img src="https://www.svgrepo.com/show/295323/cloud.svg" width="50" height="50" >
+<img src="https://www.svgrepo.com/show/452185/css-3.svg" width="50" height="50" >
+<img src="https://www.svgrepo.com/show/493625/vue-vuejs-javascript-js-framework.svg" width="50" height="50">
+<img src="https://www.svgrepo.com/show/439311/scrum.svg" width="50" height="50" align="left">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50">
 
 </p>
 
 # Hardskills
 <p>  
-<img src="https://www.svgrepo.com/show/452091/python.svg" width="50" height="50" align="left">
-<img src="https://www.svgrepo.com/show/439311/scrum.svg" width="50" height="50" align="left">
+<img src="https://www.svgrepo.com/show/349419/javascript.svg" width="50" height="50" align="left">
 <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="50" height="50" align="left">
 
 </p>
