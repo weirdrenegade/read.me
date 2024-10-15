@@ -28,7 +28,6 @@
 # Operational Systems
 <p>
 <img src="https://www.svgrepo.com/show/331786/windows-azure.svg" width="50" height="50" align="left">
-<img src="https://www.svgrepo.com/show/448236/linux.svg" width="50" height="50">
 <img src="https://www.svgrepo.com/show/475631/android-color.svg" width="50" height="50">
 
   
@@ -36,16 +35,12 @@
 
 
 # My networks
-<a href="https://www.instagram.com/cy.beerbug" alt="Instagram" target="_blank">
+<a href="https://www.instagram.com/weirdrenegade" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram">  
 </a>
-<a href="https://www.linkedin.com/in/cybeerbug/" alt="LinkedIn"
+<a href="https://www.linkedin.com/in/karinamdev/" alt="LinkedIn"
 target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8">
-</a>
-<a href="https://twitter.com/cybeerbug" alt="Twitter"
-target="_blank">
-<img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter">
 </a>
 
 
